@@ -34,5 +34,7 @@ int main(int argc, char* argv[])
     //Prints generated password
     printf("Your generated password is: ");
     printf("%s%d%s\n", string, number, symbol);
+    //Waits 1 second
+    sleep(1);
     return 0;
 }

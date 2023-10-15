@@ -1,6 +1,6 @@
 # PasswordGenerator
 Generates a randomized complex password.
-Windows and Linux compatible
+Windows and Linux compatible.
 Fully open-source, modify it how you want.
 
 # How to use this program:
